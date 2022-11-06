@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-https://komarev.com/ghpvc/?meveltu-github-meveltu
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Hello there 👋
