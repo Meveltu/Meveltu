@@ -1,5 +1,5 @@
 ### Hello there 👋
-• 🌱 I’m currently learning: CSS
+● 🌱 I’m currently learning: CSS
 <!--
 **Meveltu/Meveltu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
