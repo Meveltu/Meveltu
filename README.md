@@ -1,3 +1,7 @@
+<div id="hello" align="center">
+### Hello there 👋
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
@@ -15,8 +19,8 @@
 <hr>
 
 ### Hello there 👋
-● 🌱 I’m currently learning: CSS
-● 😄 Next: JavaScript
+- 📙 I’m currently learning: CSS
+- 🎯 Next: JavaScript
 
 <hr>
 
