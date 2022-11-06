@@ -1,11 +1,14 @@
 <h2>Hi, I'am Marcel! 👋</h2>
-
 <div id="badges">
   <a href="https://twitter.com/Meveltu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
+<div id="badges">
+<img align="right" width= "400" scr="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+</div>
+  
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=meveltu&style=flat-square&color=blue" alt=""/>
 </div>
