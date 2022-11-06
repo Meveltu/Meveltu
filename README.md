@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
+https://komarev.com/ghpvc/?username=your-github-username
 
 ### Hello there 👋
 ● 🌱 I’m currently learning: CSS
