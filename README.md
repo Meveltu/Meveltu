@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
-</div>
 
 <div id="header" align="center">
-  <h3>Hello there 👋</h3>
+  <h1>Hi, I'am Marcel! 👋</h1>
 </div>
 
 <div id="badges" align="center">
