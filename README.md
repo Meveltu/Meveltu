@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
 
+<div id="header" align="center">
 ### Hello there 👋
+</div>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/Meveltu">
