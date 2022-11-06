@@ -12,11 +12,9 @@
   </a>
 </div>
 
-<p align="center">
 ### :man_technologist: About me:
 - I’m currently learning: CSS
 - Next: JavaScript, React, Router
-</p>
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
