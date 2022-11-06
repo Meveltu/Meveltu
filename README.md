@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <h3>Hello there 👋</h3>
+### Hello there 👋
 </div>
 
 <div id="badges" align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-:man_technologist: About me:
+### :man_technologist: About me:
 - 📙 I’m currently learning: CSS
 - ⏭️ Next: JavaScript
 
