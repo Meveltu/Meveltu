@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center"> Hi! :wave: I'm Marcel AKA Meveltu</h1>
+<h3 align="center">A passionate frontend student from Poland</h3>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/Meveltu">
