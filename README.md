@@ -19,7 +19,7 @@
 <hr>
 
 - 📙 I’m currently learning: CSS
-- 🎯 Next: JavaScript
+- ⏭️ Next: JavaScript
 
 <hr>
 
