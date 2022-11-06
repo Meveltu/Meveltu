@@ -1,36 +1,38 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
+<div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 </div>
 
-<h1 align="center"> Hi! :wave: I'm Marcel AKA Meveltu</h1>
-<h3 align="center">A passionate frontend student from Poland</h3>
+<h2>Hi! :wave: I'm Marcel AKA Meveltu</h2>
+<h4>A passionate frontend student from Poland</h4>
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://twitter.com/Meveltu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>
-    <img src="https://komarev.com/ghpvc/?username=meveltu&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
-<div align="center">
-<h3>:man_technologist: About me</h2>
-<p>I’m currently learning: CSS
-<br>
-Next: JavaScript, React, Router
-</p>
-</div>
+<h4>:man_technologist: About me</h4>
+- I’m currently learning: CSS
+- Next: JavaScript, React, Router
 
-
-<div align="center">
-<h3>:hammer_and_wrench: Languages and Tools</h3>
+### :hammer_and_wrench: Languages and Tools
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
-</div>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Meveltu&theme=dark)](https://git.io/streak-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meveltu&theme=dark&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meveltu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meveltu&hide_border=true&theme=dark" />
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Meveltu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meveltu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+    </p>
+</details>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Meveltua&style=plastic&label=Views"><img>
+</p>
