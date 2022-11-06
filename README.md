@@ -7,7 +7,8 @@
 </div>
 
 ### :man_technologist: About me
-- I’m currently learning: CSS
+- I'm a passionate frontend student from Poland
+- Currently learning: CSS
 - Next: JavaScript, React, Router
 
 ### :hammer_and_wrench: Languages and Tools
