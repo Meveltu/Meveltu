@@ -16,9 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=meveltu&style=flat-square&color=blue" alt=""/>
 </div>
 
-<hr>
+---
 
-
+:man_technologist: About me:
 - 📙 I’m currently learning: CSS
 - ⏭️ Next: JavaScript
 
