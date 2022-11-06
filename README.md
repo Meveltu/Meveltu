@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
 </div>
+
 <h1 align="center"> Hi! :wave: I'm Marcel AKA Meveltu</h1>
+
 <div id="badges" align="center">
   <a href="https://twitter.com/Meveltu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>
@@ -23,6 +25,7 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Meveltu&theme=dark)](https://git.io/streak-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meveltu&theme=dark&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meveltu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Meveltu/Meveltu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
