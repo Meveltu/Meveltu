@@ -36,7 +36,9 @@
 ### :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Meveltu&theme=dark)](https://git.io/streak-stats)
 
-![Meveltu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meveltu&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meveltu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Meveltu&theme=dark&show_icons=true)
 
 <!--
 **Meveltu/Meveltu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
