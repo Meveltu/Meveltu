@@ -1,5 +1,5 @@
-<h2>Hi! :wave: I'm Marcel AKA Meveltu</h2>
-<h4>A passionate frontend student from Poland</h4>
+<h1>Hi! :wave: I'm Marcel AKA Meveltu</h1>
+<h2>A passionate frontend student from Poland</h2>
 
 <div id="badges">
   <a href="https://twitter.com/Meveltu">
