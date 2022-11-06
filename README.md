@@ -2,6 +2,7 @@
 ● 🌱 I’m currently learning: CSS
 ● 😄 Next: JavaScript
 
+### :hammer_and_wrench: Languages and Tools:
 Socials
 ● Twiter: https://twitter.com/Meveltu
 <!--
