@@ -1,6 +1,4 @@
-<div>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
-</div>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 
 <h2>Hi! :wave: I'm Marcel AKA Meveltu</h2>
 <h4>A passionate frontend student from Poland</h4>
