@@ -12,12 +12,18 @@
   </a>
 </div>
 
-### :man_technologist: About me:
-- I’m currently learning: CSS
-- Next: JavaScript, React, Router
+<div align="center">
+<h3>:man_technologist: About me</h2>
+<p>I’m currently learning: CSS
+<br>
+Next: JavaScript, React, Router
+</p>
+</div>
 
-### :hammer_and_wrench: Languages and Tools:
-<div>
+
+<div align="center">
+<h3>:hammer_and_wrench: Languages and Tools</h3>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
