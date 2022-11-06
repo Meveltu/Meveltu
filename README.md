@@ -1,20 +1,15 @@
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
-<h1 align='center'> Hi! :wave: I'm Marcel AKA Meveltu</h1>
-<div id="badges">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<h1 align="center"> Hi! :wave: I'm Marcel AKA Meveltu</h1>
+<div id="badges" align="center">
   <a href="https://twitter.com/Meveltu">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>
+    <img src="https://komarev.com/ghpvc/?username=meveltu&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
-<div id="badges">
-<img align="right" width= "400" scr="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-</div>
-  
-<div id="badges">
-<img src="https://komarev.com/ghpvc/?username=meveltu&style=flat-square&color=blue" alt=""/>
-</div>
-
-:man_technologist: About me:
+### :man_technologist: About me:
 - I’m currently learning: CSS
 - Next: JavaScript
 
