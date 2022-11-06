@@ -1,7 +1,3 @@
-<div id="hello" align="center">
-### Hello there 👋
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
@@ -35,6 +31,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meveltu&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Meveltu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Meveltu/Meveltu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
