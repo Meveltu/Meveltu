@@ -1,11 +1,5 @@
 <h1>Hi! :wave: I'm Marcel AKA Meveltu</h1>
 
-<div id="badges">
-  <a href="https://twitter.com/Meveltu">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>
-  </a>
-</div>
-
 ### :man_technologist: About me
 - I'm a passionate frontend student from Poland
 - Currently learning: CSS
@@ -16,6 +10,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
+
+### :telephone_receiver: Contact with me
+<div id="badges">
+  <a href="https://twitter.com/Meveltu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>
+  </a>
+</div>
 
 ---
 
