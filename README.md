@@ -1,7 +1,4 @@
-
-<div id="header" align="center">
-  <h1>Hi, I'am Marcel! 👋</h1>
-</div>
+<h2>Hi, I'am Marcel! 👋</h2>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/Meveltu">
