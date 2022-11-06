@@ -3,7 +3,7 @@
 ● 😄 Next: JavaScript
 
 ### :hammer_and_wrench: Languages and Tools:
-Socials
+[Socials](https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meveltu&theme=dark&hide_border=true)](https://git.io/streak-stats)
