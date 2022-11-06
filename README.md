@@ -11,8 +11,8 @@
 </div>
 
 ### :man_technologist: About me:
-- 📙 I’m currently learning: CSS
-- ⏭️ Next: JavaScript
+- I’m currently learning: CSS
+- Next: JavaScript
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
