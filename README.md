@@ -25,7 +25,7 @@
   <summary><b>🔷 &nbsp;My GitHub Statistics</b></summary>
   <br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meveltu&hide_border=true&theme=dark" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Meveltu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meveltu&hide=html&hide_title=true&hide_border=true&count_private=true&layout=compact&langs_count=8&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meveltu&hide=html&hide_title=true&hide_border=true&count_private=true&layout=compact&langs_count=8&theme=dark" />
     </p>
 </details>
 
