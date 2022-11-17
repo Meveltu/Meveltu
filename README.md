@@ -29,6 +29,13 @@
     </p>
 </details>
 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/lauragift21/"><img alt="Meveltu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meveltu&custom_title=Meveltu's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Meveltua&style=plastic&label=Views"><img>
 </p>
