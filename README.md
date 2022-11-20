@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=verdana&pause=1000&color=009FF7&width=435&lines=Hi!+I'am+Marcel" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=verdana&size=35&pause=1000&color=009FF7&width=435&lines=Hi!+I'am+Marcel" alt="Typing SVG" /></a>
 
 ## :man_technologist: About me
 - I'm a passionate frontend student from Poland
