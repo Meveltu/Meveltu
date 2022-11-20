@@ -29,7 +29,7 @@
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Profile Statistics</b></summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=Meveltu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=dark"/> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Meveltu&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/> 
 </details>
 
 <details>
