@@ -5,7 +5,7 @@
 - Currently learning: CSS
 - Next: JavaScript, React, Router
 
-### :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Languages and Tools
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="20" height="20"/>&nbsp;
