@@ -23,7 +23,7 @@
 
 <details>
   <summary><b>🔷 &nbsp;My GitHub Statistics</b></summary>
-        <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=Meveltu&hide_border=true&theme=dark&count_private=true"/>
+        <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Meveltu&hide_border=true&theme=dark&count_private=true"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meveltu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark&count_private=true"/>
 </details>
 
