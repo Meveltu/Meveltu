@@ -4,6 +4,11 @@
 - I'm a passionate frontend student from Poland
 - Currently learning: CSS
 - Next: JavaScript, React, Router
+<div id="badges">
+  <a href="https://twitter.com/Meveltu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>
+  </a>
+</div>
 
 ## :hammer_and_wrench: Languages and Tools
 
